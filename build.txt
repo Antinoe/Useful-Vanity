@@ -1,0 +1,4 @@
+displayName = Useful Vanity
+author = Antinous
+version = 0.1.2.1
+homepage = https://github.com/Antinoe/Useful-Vanity

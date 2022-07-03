@@ -1,0 +1,27 @@
+﻿The main strive for Combat Efficiency is to wear Armor, but that shouldn't be the only option. What if someone wants a lighter alternative?
+
+Vanity sets have remained a merely cosmetic part of Terraria. This project will do away with that concept and make them a viable choice in combat.
+
+While not protective, they will now compensate in other ways..
+
+**Features**
+-ALL vanity items, when equipped in the Armor Slots, now grant a configurable set of bonuses: Movement Speed, Melee Speed, Damage, and Life Regeneration.
+-Certain vanity items have unique bonuses of their own.
+
+**Vanity Bonuses (More will be added)**
+-Gravedigger set: Melee.
+-Funeral set: Ranged.
+
+
+-v0.1-
+-Initial build.
+
+-v0.1.1-
+-Added set-specific bonuses to the Config.
+-Updated the Mod Icon.
+
+-v0.1.2-
+-Added Max Minions and Max Sentries to the Global Bonuses.
+
+-v0.1.2.1-
+-Updated the mod for tModLoader's April update.
